@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\quiz1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\clase.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa vista\\clase.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\clase.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa vista\\clase.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|c:\\users\\home\\source\\repos\\quiz1\\quiz1\\capa vista\\escuela.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa vista\\escuela.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa logica\\escuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\escuela.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa vista\\escuela.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa modelo\\clsescuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa modelo\\clsescuela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa logica\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa modelo\\clsclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa modelo\\clsclase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\capa logica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6307CF4D-D55C-4064-A277-28A14F7F57CF}|quiz1\\quiz1.csproj|solutionrelative:quiz1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clase.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\clase.aspx.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa vista\\clase.aspx.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\clase.aspx.cs",
+              "RelativeToolTip": "quiz1\\capa vista\\clase.aspx.cs",
+              "ViewState": "AgIAAC8AAABALzMzM/MkwHkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:40:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clase.aspx",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\clase.aspx",
+              "RelativeDocumentMoniker": "quiz1\\capa vista\\clase.aspx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\clase.aspx",
+              "RelativeToolTip": "quiz1\\capa vista\\clase.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T07:37:33.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\Clase.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa logica\\Clase.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\Clase.cs",
+              "RelativeToolTip": "quiz1\\capa logica\\Clase.cs",
+              "ViewState": "AgIAADEAAAAA2szMzMwuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:38:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Escuela.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\Escuela.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa logica\\Escuela.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\Escuela.cs",
+              "RelativeToolTip": "quiz1\\capa logica\\Escuela.cs",
+              "ViewState": "AgIAACsAAAAA0MzMzIwtwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:37:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBconn.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\DBconn.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa logica\\DBconn.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa logica\\DBconn.cs",
+              "RelativeToolTip": "quiz1\\capa logica\\DBconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:37:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CLSclase.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa modelo\\CLSclase.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa modelo\\CLSclase.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa modelo\\CLSclase.cs",
+              "RelativeToolTip": "quiz1\\capa modelo\\CLSclase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:36:53.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CLSescuela.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa modelo\\CLSescuela.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa modelo\\CLSescuela.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa modelo\\CLSescuela.cs",
+              "RelativeToolTip": "quiz1\\capa modelo\\CLSescuela.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:36:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "escuela.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\escuela.aspx.cs",
+              "RelativeDocumentMoniker": "quiz1\\capa vista\\escuela.aspx.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\escuela.aspx.cs",
+              "RelativeToolTip": "quiz1\\capa vista\\escuela.aspx.cs",
+              "ViewState": "AgIAAHIAAAAAKGZmZmb6v1UAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:15:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "escuela.aspx",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\escuela.aspx",
+              "RelativeDocumentMoniker": "quiz1\\capa vista\\escuela.aspx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\capa vista\\escuela.aspx",
+              "RelativeToolTip": "quiz1\\capa vista\\escuela.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T05:13:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\Web.config",
+              "RelativeDocumentMoniker": "quiz1\\Web.config",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\quiz1\\quiz1\\Web.config",
+              "RelativeToolTip": "quiz1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T04:59:24.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
